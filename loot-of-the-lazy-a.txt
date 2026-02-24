@@ -311,7 +311,7 @@ where to take you. Now, come clean, Janice. You were going to leave me
 flat. I’ve bought you clothes, diamonds, paid your rent, furnished you a
 car--and you run out on me.”
 
-Came a few moments of inaudible conversation, the man’s voice was raised
+Came a few moments of inaudible conversation; the man’s voice was raised
 in anger.
 
 “What do you care how I make my money? You’re getting rather prudish,
@@ -571,10 +571,11 @@ monthly wants, and she was able to struggle along and take care of her
 baby.
 
 East of Oreana City, about four miles, were the tumbledown ranch
-buildings of the Cross Arrow, owned by “Badger” Hill and his son, known
-as “Shif’less.” They were veritable range derelicts, these two. Badger
-was a short, squatty, bewhiskered sort of a man, who greatly resembled
-his namesake. His vocabulary was limited to few words--mostly profane.
+buildings of the Cross Arrow, owned by “Badger” Hill and his son,
+known as “Shif’less.” They were veritable range derelicts, these
+two. Badger was a short, squatty, bewhiskered sort of a man, who
+greatly resembled his namesake. His vocabulary was limited to a few
+words--mostly profane.
 
 Shif’less was a big hulk of a man, less than thirty years of age. He
 was not unhandsome, in his big, lumbering way. His features were
@@ -638,11 +639,11 @@ did both sides were coldly civil. They came to the same dances, thereby
 causing the sheriff much mental anguish for fear of trouble, as he
 wanted to play square with both sides.
 
-But the Aults were gone now, and there only Idaho Breen his three
-punchers, “Omaha” Woods, “Mex” Leone, and “Pie” Ide. But they were
-enough. In range language, a man had to be salty to work for the
-Lazy A. Omaha Woods was broad of beam, with the neck and shoulders
-of a wrestler and the mustache of a Viking.
+But the Aults were gone now, and there were only Idaho Breen his
+three punchers, “Omaha” Woods, “Mex” Leone, and “Pie” Ide. But they
+were enough. In range language, a man had to be salty to work for the
+Lazy A. Omaha Woods was broad of beam, with the neck and shoulders of
+a wrestler and the mustache of a Viking.
 
 Mex Leone was small, slender, almost as black as an Indian; possibly
 the best bronc rider in the country. Pie Ide was rangy built, tall,
@@ -655,7 +656,7 @@ It was about a week after the funeral of Jud Ault. Shif’less Hill
 was on his monthly peanut spree. While the other cowboys spent their
 monthly salary, or a great part of it, for liquor and cards,
 Shif’less Hill consumed large quantities of peanuts and a sprinkling
-of peppermint candy hearts; chuckling to himself over the inane
+of peppermint candy hearts, chuckling to himself over the inane
 inscriptions thereon.
 
 Just now he had strolled to the front gate of Faith Keene’s little
@@ -981,10 +982,10 @@ Cultus smiled grimly, but shook his head.
 soul of a bitter man. Mebbe I better see if I can help him. I dunno what
 he wants done, do you?”
 
-“No. Perhaps it’s merely hallucinations, Cultus. I don’t know much
-about the place. If you take the job, it’ll be up to you to go there
-and see what you can find out. I’ll give you a note to Ault; so he’ll
-know you’re on the job.”
+“No. Perhaps it’s merely hallucinations, Cultus. I don’t know much about
+the place. If you take the job, it’ll be up to you to go there and see
+what you can find out. I’ll give you a note to Ault so he’ll know you’re
+on the job.”
 
 “All right.”
 
@@ -1171,7 +1172,7 @@ dressed up, but when they did they made an event of it.
 Pie had suggested that they all go to the depot to meet her, but
 Idaho vetoed that idea. Idaho drove away. It would be several hours
 before train time. Omaha came from the bunkhouse, looking queer with
-his purple nose, which resembled a potato, in contour.
+his purple nose, which resembled a potato in contour.
 
 “All dressed up and no place to go,” complained Pie. “It’s hours before
 the train comes in.”
@@ -1830,7 +1831,7 @@ at her.”
 
 “Sure; and pulled all on one line.”
 
-“Aw, let up on him, Buck,” said Heinie. “Were all to blame. Dude will
+“Aw, let up on him, Buck,” said Heinie. “We’re all to blame. Dude will
 fire all of us for this, anyway; so we might as well go to town, get
 drunk and take our medicine. If there ever was four bigger fools, I’d
 like to see what they look like.”
@@ -1935,7 +1936,7 @@ Breen, foreman of the Lazy A.”
 the new owner of the Lazy A outfit.”
 
 “The girl we spoke about,” said the sheriff. “The one that came in on
-the rain with you.”
+the train with you.”
 
 “Oh, yeah--that one.”
 
@@ -2116,7 +2117,7 @@ dirty old pup long before that.”
 
 “Dad, I don’t reckon she cares to know all this,” said Dude softly.
 
-“Well, she ought to. Anyway, she might as well hear it from me, cause
+“Well, she ought to. Anyway, she might as well hear it from me, ’cause
 she’s goin’ to hear it sooner or later.”
 
 “That liniment will take a lot of the soreness out,” said Dude. “I’ll
@@ -2290,7 +2291,7 @@ hand, the suitcase in the other and led the way down a narrow hall.
 that the wash-bowl ain’t cracked.”
 
 Dude watched them turn into a room, and went outside. There was plenty
-of noise in the Oreana; so he went over. Klondike, Buck, Heinie and Joe
+of noise in the Oreana, so he went over. Klondike, Buck, Heinie and Joe
 were decidedly drunk. They goggled at him owlishly, sobering a trifle.
 It was rather unusual for Dude to come to town at that time of night.
 Buck invited him to have a drink, but he declined.
@@ -2318,7 +2319,7 @@ been killed. She----”
 Joe in the pants with a sh-shotgun. Oh, ter’ble! Idaho Breen wash in
 it, too. Oh, cert’nly! So we tied him up in an old saddle-blanket and
 stole the girl. We admit it. Cert’nly, we do. We can’t deny it. ’S too
-bad, but it’s done. Dude.”
+bad, but it’s done, Dude.”
 
 “Who knows about it, except you four, Buck?”
 
@@ -3454,7 +3455,7 @@ Cultus nodded. “Yeah. I was on my way to Welcome Creek.”
 
 “And jist stopped to look, eh?”
 
-“Well, no-o-o. Yuh see. I didn’t have no idea of stoppin’ here until I
+“Well, no-o-o. Yuh see, I didn’t have no idea of stoppin’ here until I
 seen our friend the Oreana City lawyer sneak away from outside there,
 grab his horse and fog for the Lazy A.”
 
@@ -3651,7 +3652,7 @@ Breen laughed harshly. “Mary Ault! And you tried to fool me.”
                    *       *       *       *       *
 
 Cultus and Shif’less rode away from the old mine, heading toward the
-Cross Arrow, Shif’less was still a little mystified as to why Cultus
+Cross Arrow. Shif’less was still a little mystified as to why Cultus
 had helped him destroy the evidence. They had left nothing for the
 Lazy A to find as evidence, unless they were willing to search the
 two hundred foot level of the crumbling old shaft.
@@ -4103,7 +4104,7 @@ had brought to Idaho Breen. Shif’less said nothing to affirm or deny
 Lane’s report.
 
 “Breen sent us down there to investigate,” said Omaha. “But we didn’t
-find a thing. I’m jist tollin’ yuh this for yore own benefit, Shif’less;
+find a thing. I’m jist tellin’ yuh this for yore own benefit, Shif’less;
 not try in’ to start anythin’ with yuh.”
 
 “Much obliged, Omaha,” drawled Shif’less. “That’s shore kind of yuh.”
@@ -4123,7 +4124,7 @@ Lane swallowed heavily and shifted his position. “No. I’m all right.”
 
 “Why, yes, certainly. What did you mean, Shif’less?”
 
-“Morally” Shif’less crunched slowly on some peanuts. “You always
+“Morally.” Shif’less crunched slowly on some peanuts. “You always
 pretended to be my best friend, and so yuh sneaked out to the old
 Suicide mine and tried to put the deadwood on me.”
 
@@ -4140,7 +4141,7 @@ Lazy A gang out to get me, Miles Lane.”
 find--uh--listen, Shif’less; that was----”
 
 “You was tryin’ to play a joke on me, eh?” Shif’less dusted his hands
-on the knees of his chaps. “You thought it would he awful funny for me
+on the knees of his chaps. “You thought it would be awful funny for me
 to git hung. You’ve shore got a sense of humor.”
 
 Lane was speechless, but his brain was working swiftly. He was in a
@@ -4149,7 +4150,7 @@ precarious position, and he knew it well.
 “I runs across Jones, the detective,” said Shif’less. “He knowed that
 Jack Keene was dead; so I told him about what I found in the paper, and
 he went whalin’ back toward the Lazy A. He’s a queer sort of a jigger.
-He saw you sneak away from the old mine this mornin’. Miles.”
+He saw you sneak away from the old mine this mornin’, Miles.”
 
 “He knew about Jack Keene?”
 
@@ -4182,7 +4183,7 @@ this morning--in the shafthouse. The boys from the Lazy A went there to
 get him, but he had thrown all the evidence into the shaft. There must
 be a way to recover it, Cleve; so you better arrest Shif’less and put
 him in jail. But look out for him. He knows I saw him, and he probably
-knows I’m telling you! about it now.”
+knows I’m telling you about it now.”
 
 The sheriff nodded slowly. “Are yuh sure, Miles?”
 
@@ -4193,7 +4194,7 @@ the shaft.”
 “And it’s two hundred feet deep. But I’ll arrest him, if yuh say so,
 Miles; and you can swear out the warrant later.”
 
-“That’s all right, Cleve? I’ll do it.”
+“That’s all right, Cleve. I’ll do it.”
 
 Lane crossed the street, headed for the livery stable, and Shif’less
 walked swiftly across to the Oreana saloon. The sheriff hesitated for
@@ -4397,7 +4398,7 @@ head against his knee. “How are yuh, Jones?”
 The sheriff shoved his way to Cultus. “Breen’s dead,” he said. “We’ve
 sent for the doctor for Lane. Hey! Are yuh listenin’ to me? That Ault
 girl ain’t dead!! She’s over there across the street. What’s it all
-about. Jones? Did Breen shoot yuh?”
+about, Jones? Did Breen shoot yuh?”
 
 Cultus looked up at him. “Is Lane badly hurt?”
 

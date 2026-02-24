@@ -277,7 +277,7 @@ stretch this ticket to San Francisco, where she had an aunt.
 
 .il 25% lt
 f=image-015.png
-a="girl with suitcase"
+a=girl with suitcase
 .il-
 
 But the aunt was not there. Lack of a business education lost her
@@ -418,7 +418,7 @@ shoulder, and she tried to smile.
 
 .il 25% lt
 f=image-017.png
-a="suitcase"
+a=suitcase
 .il-
 
 “Hang onto yore nerve,” he whispered, and then his eyes happened to
@@ -590,7 +590,7 @@ them.
 
 .il 25% lt
 f=image-018.png
-a="cowboy shooting"
+a=cowboy shooting
 .il-
 
 The feud had started so long ago that no one seemed to know just what
@@ -713,7 +713,7 @@ trouble, as he wanted to play square with both sides.
 
 .il 25% lt
 f=image-020.png
-a="dance"
+a=dance
 .il-
 
 But the Aults were gone now, and there were only Idaho Breen his three
@@ -862,7 +862,7 @@ the Lazy~A was worth a cold million.”
 
 .il 25% lt
 f=image-021.png
-a="mine track"
+a=mine track
 .il-
 
 “Yeah, I heard it, too. Old Jud knowed it was there. But the Lazy~A
@@ -1009,7 +1009,7 @@ conversation, until Lane had raised his voice slightly and said:
 
 .il 25% lt
 f=image-023.png
-a="cowboy on ledge"
+a=cowboy on ledge
 .il-
 
 “Just forget those cow-hides. What do we care? Rustling is petty
@@ -1228,7 +1228,7 @@ somethin’ in the world.”
 
 .il 50% t
 f=image-024.png
-a="girl playing piano; man listening"
+a=girl playing piano; man listening
 .il-
 
 “If you’d ’a’ said you was clean-souled, I’d keep still, ’cause yore
@@ -1360,7 +1360,7 @@ cowboys!”
 
 .il 25% lt
 f=image-026.png
-a="friendly cowboy at a bar"
+a=friendly cowboy at a bar
 .il-
 
 And for the first time since the feud started, the Star X punchers
@@ -1570,7 +1570,7 @@ about fifteen minutes, and nobody ain’t been throwed out yet.”
 
 .il 25% lt
 f=image-027.png
-a="two cowboys quarreling"
+a=two cowboys quarreling
 .il-
 
 Idaho scowled heavily. “All gettin’ drunk, eh?”
@@ -1654,7 +1654,7 @@ busted him with a load of duckshot.”
 
 .il 25% lt
 f=image-029.png
-a="two fighting cowboys"
+a=two fighting cowboys
 .il-
 
 “I wonder what started it?” grinned Pie, as he reloaded his long
@@ -1858,7 +1858,7 @@ swiftly and ran over to the girl.
 
 .il 25% lt
 f=image-030.png
-a="a lone horseman"
+a=a lone horseman
 .il-
 
 With little difficulty he disentangled her from the bush, which had
@@ -2066,7 +2066,7 @@ over his right eye. He spat angrily and lurched against the bar.
 
 .il 25% lt
 f=image-032.png
-a="old cowboy"
+a=old cowboy
 .il-
 
 Idaho grasped the bottle and took a heavy swig; so heavy that the
@@ -2227,7 +2227,7 @@ out. You take it easy, and I’ll fix yuh up fine.”
 
 .il 25% lt
 f=image-034.png
-a="Dude Wheeler"
+a=Dude Wheeler
 .il-
 
 Mary watched the tall, straight-backed cowboy leave the room, and sank
@@ -2404,7 +2404,7 @@ back on the ridges. It’s like goin’ away from the rest of the world.
 
 .il 25% lt
 f=image-035.png
-a="lone rider at night"
+a=lone rider at night
 .il-
 
 “I’m sorry dad talked like he did. But he’s old, and he hates the
@@ -2742,7 +2742,7 @@ Cultus smiled widely. “I dunno; I’ll try.”
 
 .il 25% lt
 f=image-038.png
-a="cattle in a canyon"
+a=cattle in a canyon
 .il-
 
 “Fine!” Idaho fairly beamed.
@@ -2894,7 +2894,7 @@ fools on a job of this kind.”
 
 .il 25% lt
 f=image-040.png
-a="inebriated cowboy smiling"
+a=inebriated cowboy smiling
 .il-
 
 “Thasso? Huh! I never seen a cow-detective that had sense enough to
@@ -3069,7 +3069,7 @@ he stepped through the doorway.
 
 .il 25% lt
 f=image-041.png
-a="Cultus rolling a cigarette"
+a=Cultus rolling a cigarette
 .il-
 
 “Howdy,” he said pleasantly. “I didn’t know we had company. Yo’re
@@ -3254,7 +3254,7 @@ out more than he had expected.
 
 .il 25% lt
 f=image-043.png
-a="cowboy walking with detemination"
+a=cowboy walking with detemination
 .il-
 
 Jack Keene was the man who was sending the woman to pose as the niece
@@ -3433,7 +3433,7 @@ that no Mary Ault existed.
 
 .il 25% lt
 f=image-044.png
-a="lone cowboy riding"
+a=lone cowboy riding
 .il-
 
 Cultus decided that there was nothing for him to do, except to wait
@@ -3580,7 +3580,7 @@ familiar landscape.
 
 .il 25% lt
 f=image-046.png
-a="silhouette of Suicide Mine"
+a=silhouette of Suicide Mine
 .il-
 
 After a while he saw the silhouette of an old building, which he
@@ -3757,7 +3757,7 @@ C’mon, let’s get busy.”
 
 .il 25% lt
 f=image-048.png
-a="cowboy climbing a rope"
+a=cowboy climbing a rope
 .il-
 
 “What’s yore game?” queried Shif’less.
@@ -3885,7 +3885,7 @@ no help from him.
 
 .il 25% lt
 f=image-049.png
-a="two armed riders"
+a=two armed riders
 .il-
 
 “Where are you going to send me?” she asked helplessly.
@@ -4081,7 +4081,7 @@ gate, and Breen fired.
 
 .il 25% lt
 f=image-051.png
-a="Cultus trying to control his horse"
+a=Cultus trying to control his horse
 .il-
 
 Cultus jerked sideways from the shock of the heavy bullet, and his tall
@@ -4200,7 +4200,7 @@ the running team from disaster.
 
 .il 25% lt
 f=image-052.png
-a="Cultus struggling to ride in search for Mary"
+a=Cultus struggling to ride in search for Mary
 .il-
 
 The first curve showed nothing, except that wheels had torn deeply into
@@ -4364,7 +4364,7 @@ bring up.”
 
 .il 25% lt
 f=image-053.png
-a="guffawing cowboys"
+a=guffawing cowboys
 .il-
 
 Lane turned on his heel and walked away, while the three cowpunchers
@@ -4518,7 +4518,7 @@ quickly as Shif’less could draw from his holster.
 
 .il 25% lt
 f=image-055.png
-a="cowboy listening"
+a=cowboy listening
 .il-
 
 “All right; put the horse up,” he said hoarsely. “I’ll probably be back
@@ -4716,7 +4716,7 @@ Lane turned his head and looked at Cultus.
 
 .il 25% lt
 f=image-057.png
-a="cowboy hiding in bushes"
+a=cowboy hiding in bushes
 .il-
 
 “You know he did, Jones. He’s gone; so it won’t hurt him any.”
